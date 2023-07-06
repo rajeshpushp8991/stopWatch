@@ -41,9 +41,9 @@ h1 {
 /* Timer Display Style Added */
 #display{
     position: relative;
-    width: 110%;
+    width: 100%;
     background: rgba(25, 28, 30, 0.3);
-    left: -5%;
+    
     padding: 45px 0;
     font-family:  'Roboto mono', monospace;
     color: white;
